@@ -9,6 +9,7 @@ const onResize = debounce(() => console.log('resized'), 200);
 const init = once(() => console.log('initialized'));
 init(); init(); // logs "initialized" only once
 
+console.log("munasinghe rajapaksha sachintha lakshan")
 
-console.log("lakshan sachintha");
+
 await sleep(500); // pauses ~500ms inside async function
