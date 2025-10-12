@@ -12,4 +12,12 @@ init(); init(); // logs "initialized" only once
 console.log("munasinghe rajapaksha sachintha lakshan")
 
 
+console.log("one");
+console.log("two");
+console.log("three");
+console.log("four");
+
+
+
+
 await sleep(500); // pauses ~500ms inside async function
