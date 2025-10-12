@@ -12,10 +12,10 @@ init(); init(); // logs "initialized" only once
 console.log("munasinghe rajapaksha sachintha lakshan")
 
 
-console.log("one");
-console.log("two");
-console.log("three");
-console.log("four");
+console.log("seven");
+console.log("eight");
+console.log("nine");
+console.log("ten");
 
 
 
