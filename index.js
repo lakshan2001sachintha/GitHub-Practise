@@ -9,7 +9,6 @@ const onResize = debounce(() => console.log('resized'), 200);
 const init = once(() => console.log('initialized'));
 init(); init(); // logs "initialized" only once
 
-console.log("munasinghe rajapaksha sachintha lakshan")
 
 console.log("sen");
 console.log("ght");
