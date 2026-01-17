@@ -10,8 +10,4 @@ const init = once(() => console.log('initialized'));
 init(); init(); // logs "initialized" only once
 
 
-console.log("ne");
-console.log("tn");
-console.log("sachintha lakshanm")
-
 await sleep(500); // pauses ~500ms inside async function
