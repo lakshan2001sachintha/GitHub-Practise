@@ -10,4 +10,5 @@ func main(){
 	fmt.Println("lakshan");
 	result := myFunc(12,23)
 	fmt.Println(result)
+	// lakshan
 }
